@@ -33,5 +33,6 @@ public interface BasicOperations {
     public float dividir(float dividendo, float divisor) throws Exception;
     
     public double dividir(double dividendo, double divisor) throws Exception;
-    
+ 
 }
+
